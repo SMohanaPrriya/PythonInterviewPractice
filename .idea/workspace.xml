@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="543dd99b-de38-4c0f-94d7-d1f6ddd2fbf3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Easy/TwoSumII.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/TwoSumII.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Easy/198. House Robber.py" beforeDir="false" afterPath="$PROJECT_DIR$/Easy/198. House Robber.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.198. House Robber.executor": "Run",
     "Python.Maximum Subarray.executor": "Run",
     "Python.TwoSum.executor": "Run",
     "Python.TwoSumII.executor": "Run",
